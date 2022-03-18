@@ -5,7 +5,6 @@
         <tr>
           <th>Nom</th>
           <th>Population</th>
-          <th>Pays</th>
         </tr>
       </thead>
       <tbody>
